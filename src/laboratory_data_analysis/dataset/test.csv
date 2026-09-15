@@ -1,0 +1,501 @@
+id,department_id,analyser_id,name,price,currency,priority
+1,5,30,HBV Genotyping PCR,1230,USD,emergency
+2,2,8,Serum Phosphorus,943,USD,stat
+3,10,48,HSV-1 IgG,795,USD,routine
+4,4,26,Thyroglobulin Antibody (Anti-TG),726,USD,routine
+5,1,6,Hematocrit (Hct),305,USD,routine
+6,3,18,Aerobic Vaginal Culture,1088,USD,routine
+7,10,50,Cryptosporidium Antigen (Stool),718,USD,routine
+8,4,23,Anti-PR3 (c-ANCA Antigen),1185,USD,emergency
+9,4,24,C-Reactive Protein (CRP),1411,USD,routine
+10,4,26,ANA Profile (Quantitative),406,USD,routine
+11,10,49,Giardia Antigen (Stool),881,USD,routine
+12,2,8,Serum Bilirubin Indirect,672,USD,routine
+13,3,19,Stool WBC Count,1237,USD,routine
+14,10,49,Chikungunya IgG,1002,USD,routine
+15,3,17,Gastric Aspirate AFB,1096,USD,routine
+16,10,48,Rubella IgG,1399,USD,stat
+17,4,25,Anti-RNP,1409,USD,routine
+18,5,29,Bordetella pertussis PCR,241,USD,routine
+19,1,7,Serum Folate,531,USD,routine
+20,9,44,Heavy Metals Screen (Blood),457,USD,emergency
+21,5,27,HBV Drug Resistance Mutation PCR,551,USD,routine
+22,8,39,Renin Activity (Plasma),982,USD,routine
+23,8,40,Insulin (Fasting),1476,USD,routine
+24,5,30,Cryptococcus neoformans PCR,549,USD,emergency
+25,1,6,Serum Ferritin,61,USD,routine
+26,3,16,KOH Preparation,920,USD,emergency
+27,1,7,Platelet Count,1475,USD,routine
+28,5,27,HBV DNA PCR Quantitative,1191,USD,emergency
+29,1,7,Direct Coombs Test (DAT),298,USD,routine
+30,3,19,Fungal Culture,1417,USD,routine
+31,9,45,Benzodiazepine Screen,956,USD,routine
+32,8,42,5-HIAA (24hr Urine),1172,USD,routine
+33,2,10,Troponin T,1022,USD,routine
+34,1,7,Indirect Coombs Test (IAT),556,USD,routine
+35,9,45,Gentamicin Trough Level,1117,USD,routine
+36,10,48,Varicella Zoster IgM,612,USD,routine
+37,8,41,Thyroid Profile (TSH+FT3+FT4),530,USD,routine
+38,4,23,IgG,1156,USD,stat
+39,9,44,Methadone Screen,523,USD,routine
+40,4,22,Serum Rheumatoid Factor IgA,1496,USD,emergency
+41,6,35,Prostate Biopsy,884,USD,routine
+42,8,42,Catecholamines (24hr Urine),901,USD,stat
+43,2,14,Serum Iron Studies,847,USD,routine
+44,2,8,CK-MB,1229,USD,routine
+45,9,43,Opiate Screen,770,USD,routine
+46,8,42,Sex Hormone Binding Globulin (SHBG),908,USD,routine
+47,2,11,Serum Lipase,1049,USD,emergency
+48,4,24,Anti-Scl-70,1044,USD,stat
+49,1,3,Factor IX Activity,1419,USD,routine
+50,4,24,Anti-TPO (Thyroid Peroxidase),388,USD,routine
+51,1,2,Serum Lactate Dehydrogenase (Hematology),1324,USD,routine
+52,9,46,Barbiturate Screen,1262,USD,routine
+53,9,43,Urine Cadmium Level,221,USD,routine
+54,5,28,HSV-1 PCR,995,USD,emergency
+55,8,41,Free Cortisol (24hr Urine),826,USD,routine
+56,10,50,Typhidot IgM,719,USD,routine
+57,4,24,Anti-Ro (SS-A),619,USD,routine
+58,2,14,Plasma Glucose (2hr Post Prandial),566,USD,routine
+59,4,24,Angiotensin Converting Enzyme (ACE),89,USD,routine
+60,9,43,Blood Mercury Level,766,USD,emergency
+61,9,43,Urine Drug Screen (10-Panel),1384,USD,stat
+62,2,8,Serum Chloride,556,USD,emergency
+63,5,27,Mycobacterium tuberculosis PCR (Xpert MTB/RIF),1322,USD,emergency
+64,4,22,Anti-CCP (Cyclic Citrullinated Peptide),1019,USD,routine
+65,2,11,Blood Urea Nitrogen (BUN),1002,USD,routine
+66,9,45,Phenytoin Level,393,USD,routine
+67,10,47,Dengue IgM,385,USD,routine
+68,9,43,Amikacin Trough Level,1235,USD,stat
+69,1,3,RBC Folate,1229,USD,routine
+70,3,19,Pus Culture & Sensitivity,862,USD,routine
+71,5,28,Mycoplasma genitalium PCR,205,USD,routine
+72,8,40,VIP (Vasoactive Intestinal Peptide),258,USD,routine
+73,9,45,Cyclosporine Level (C2),1451,USD,routine
+74,2,9,Serum Amylase,1209,USD,routine
+75,8,41,Growth Hormone (GH),1141,USD,routine
+76,4,23,Anti-Citrullinated Protein (ACPA),191,USD,routine
+77,2,13,Serum Ammonia,75,USD,routine
+78,2,15,Lipid Profile,266,USD,routine
+79,4,23,Anti-Cardiolipin IgG,1351,USD,routine
+80,1,4,Absolute Eosinophil Count (AEC),1498,USD,emergency
+81,2,10,Serum Uric Acid,1118,USD,routine
+82,5,29,Clostridioides difficile PCR,1311,USD,routine
+83,8,42,Anti-TPO (Thyroid Peroxidase Ab),1002,USD,routine
+84,7,38,Pleural Fluid Cytology,1263,USD,routine
+85,10,48,RSV Rapid Antigen,227,USD,routine
+86,5,30,Gardnerella vaginalis PCR,549,USD,routine
+87,5,31,JAK2 V617F Mutation (Allele Frequency),1299,USD,routine
+88,8,41,Total T3 (Triiodothyronine),108,USD,routine
+89,8,41,Metanephrines (24hr Urine),422,USD,routine
+90,4,23,Anti-Smith (Anti-Sm),579,USD,routine
+91,5,31,HPV DNA PCR (High-Risk Genotypes),1486,USD,routine
+92,10,47,Mumps IgG,1108,USD,routine
+93,6,32,Gallbladder Biopsy,544,USD,routine
+94,5,30,BCR-ABL1 Quantitative (IS),1187,USD,routine
+95,8,42,Testosterone Total,1372,USD,routine
+96,8,42,AMH (Anti-Müllerian Hormone),85,USD,stat
+97,7,36,Urine Cytology (Bladder Wash),878,USD,routine
+98,5,29,Mycoplasma pneumoniae PCR,1409,USD,routine
+99,2,15,Beta-Hydroxybutyrate,1183,USD,routine
+100,1,4,ESR (Wintrobe Method),1177,USD,routine
+101,1,6,Hemoglobin (Hb),979,USD,routine
+102,7,37,Fine Needle Aspiration - Breast,522,USD,emergency
+103,8,40,C-Peptide (Fasting),696,USD,emergency
+104,10,48,Hepatitis A IgM (Anti-HAV IgM),442,USD,emergency
+105,9,46,Serum Drug Screen (General),616,USD,routine
+106,8,41,Cortisol Binding Globulin,255,USD,routine
+107,10,49,EBV EBNA IgG,515,USD,routine
+108,10,49,Chikungunya IgM,78,USD,routine
+109,8,40,Free T3 (FT3),611,USD,stat
+110,8,39,17-OH Progesterone,1183,USD,routine
+111,1,2,Factor XI Activity,1356,USD,routine
+112,3,19,TB Culture (Solid Medium - LJ),260,USD,routine
+113,7,38,Fine Needle Aspiration - Soft Tissue,632,USD,routine
+114,10,50,Helicobacter pylori IgG,747,USD,emergency
+115,10,47,HSV-2 IgM,567,USD,routine
+116,9,46,Ethanol Level (Serum),283,USD,routine
+117,10,50,Dengue PCR (Serology Backup),1057,USD,stat
+118,4,26,Anti-Ribosomal P,1455,USD,stat
+119,9,44,Levetiracetam Level,1202,USD,routine
+120,9,43,Vancomycin Trough Level,558,USD,emergency
+121,3,19,India Ink Preparation (CSF),1291,USD,routine
+122,4,25,Cryoglobulins (Quantitative),512,USD,routine
+123,4,24,Beta-2 Glycoprotein I IgG,972,USD,routine
+124,3,18,Sputum Culture & Sensitivity,1255,USD,routine
+125,10,49,Pneumococcal Urinary Antigen,1214,USD,routine
+126,8,39,Chromogranin A,475,USD,routine
+127,10,49,Hepatitis B Core Ag (HBcAg),1402,USD,stat
+128,4,22,Complement C4,405,USD,routine
+129,4,22,Anti-Jo-1,55,USD,routine
+130,2,15,HDL Cholesterol,646,USD,stat
+131,6,34,Adrenal Gland Biopsy,1497,USD,routine
+132,4,24,Lupus Anticoagulant (Quantitative),195,USD,routine
+133,2,12,Postprandial Blood Sugar (PPBS),1330,USD,routine
+134,2,11,Serum Calcium Total,920,USD,emergency
+135,2,11,Total Protein,1376,USD,emergency
+136,10,49,HIV P24 Antigen,341,USD,stat
+137,10,48,SARS-CoV-2 Rapid Antigen,679,USD,routine
+138,8,41,IGF-1 (Insulin-like Growth Factor 1),949,USD,emergency
+139,8,41,Thyroglobulin (Tumor Marker),1483,USD,routine
+140,3,18,Stool for Ova & Parasites,1074,USD,routine
+141,5,30,MTHFR C677T Mutation,214,USD,routine
+142,5,30,Rotavirus/Adenovirus PCR (Stool),710,USD,routine
+143,3,16,Stool Calprotectin,237,USD,emergency
+144,10,47,Hepatitis B Viral Load (Serology Backup),1426,USD,routine
+145,5,31,Enterovirus PCR (CSF),132,USD,routine
+146,1,2,Absolute Neutrophil Count (ANC),1013,USD,routine
+147,1,4,Bleeding Time (Ivy Method),619,USD,emergency
+148,4,25,Rheumatoid Factor (RA Factor),942,USD,routine
+149,6,35,Renal Cell Carcinoma Biopsy,236,USD,routine
+150,2,14,LDL Cholesterol,732,USD,routine
+151,9,43,Tacrolimus Level,379,USD,routine
+152,10,50,Adenovirus Antigen (Stool),640,USD,routine
+153,6,35,Colonic Biopsy,1176,USD,stat
+154,7,36,Peritoneal Fluid Cytology,694,USD,routine
+155,8,39,T3 Uptake,877,USD,routine
+156,10,47,Anti-HBc IgM,1396,USD,routine
+157,2,15,Serum Urea,896,USD,stat
+158,5,31,Cytomegalovirus Drug Resistance PCR,790,USD,routine
+159,3,19,Eye Swab Culture,1330,USD,routine
+160,3,16,Vaginal Discharge Wet Mount,466,USD,routine
+161,8,40,ADH (Anti-Diuretic Hormone),639,USD,routine
+162,10,50,Hepatitis E IgM (Anti-HEV IgM),298,USD,stat
+163,10,48,Hepatitis A IgG (Anti-HAV IgG),374,USD,routine
+164,4,21,Anti-dsDNA (Quantitative),1181,USD,routine
+165,9,44,Methotrexate Level (24hr),282,USD,routine
+166,7,36,Fine Needle Aspiration - Thyroid,1376,USD,routine
+167,4,24,Serum Immunofixation,647,USD,routine
+168,5,29,HCV Genotyping PCR,900,USD,routine
+169,3,19,Semen Analysis,549,USD,routine
+170,9,44,Oxycodone Screen,835,USD,emergency
+171,5,31,Treponema pallidum PCR,1090,USD,routine
+172,8,40,25-OH Vitamin D,192,USD,routine
+173,8,42,Calcitonin,746,USD,routine
+174,8,41,Testosterone Bioavailable,55,USD,routine
+175,1,3,Reptilase Time,1252,USD,routine
+176,10,50,Anti-HBc Total,354,USD,routine
+177,1,4,Factor VIII Activity,756,USD,routine
+178,3,20,Wet Mount Preparation,822,USD,routine
+179,8,41,DHEA-S (Dehydroepiandrosterone Sulfate),436,USD,routine
+180,8,40,Free T4 (FT4),1221,USD,routine
+181,7,37,Bronchial Wash Cytology,139,USD,routine
+182,8,42,Glucagon,1494,USD,routine
+183,8,42,Free T3 & Free T4,840,USD,routine
+184,3,17,Sweat Chloride Test,1064,USD,routine
+185,5,28,Adenovirus PCR,1078,USD,routine
+186,7,37,Sputum Cytology,255,USD,routine
+187,8,42,"1,25-Dihydroxy Vitamin D",254,USD,routine
+188,5,30,BCR-ABL1 Qualitative (Screen),81,USD,routine
+189,5,30,Toxoplasma gondii DNA PCR,1390,USD,routine
+190,4,21,Serum Protein Electrophoresis (SPEP),1011,USD,routine
+191,10,49,Dengue NS1 Antigen,743,USD,routine
+192,1,4,D-Dimer (Quantitative),1380,USD,stat
+193,2,13,ALT (Alanine Aminotransferase),1431,USD,routine
+194,2,14,Total Cholesterol,698,USD,routine
+195,5,30,Norovirus PCR,1158,USD,stat
+196,1,1,Cold Agglutinin Titer,530,USD,routine
+197,5,29,SARS-CoV-2 PCR,515,USD,routine
+198,10,50,Hepatitis E IgG (Anti-HEV IgG),251,USD,routine
+199,6,32,Pancreatic Biopsy,958,USD,emergency
+200,9,45,Fentanyl Screen,109,USD,stat
+201,5,27,HHV-8 DNA PCR,650,USD,routine
+202,4,24,IgG Subclasses,348,USD,emergency
+203,4,24,Beta-2 Glycoprotein I IgM,1209,USD,routine
+204,6,33,Soft Tissue Biopsy,398,USD,emergency
+205,9,46,Lamotrigine Level,1319,USD,routine
+206,10,50,Dengue IgG,1244,USD,emergency
+207,5,30,EBV DNA PCR Quantitative,1356,USD,routine
+208,4,23,Anti-DFS70,1415,USD,stat
+209,7,37,CSF Flow Cytometry (Immunophenotyping),639,USD,routine
+210,2,10,Serum Lactate,201,USD,routine
+211,8,41,Cortisol (Evening),1253,USD,routine
+212,6,35,Gastric Biopsy,1463,USD,routine
+213,7,37,Pericardial Fluid Cytology,457,USD,routine
+214,1,7,Fibrinogen (Quantitative),1039,USD,emergency
+215,9,46,"Carbamazepine-10,11-Epoxide",1221,USD,routine
+216,10,49,Typhoid IgM,1482,USD,routine
+217,10,50,EBV VCA IgM,612,USD,stat
+218,6,32,Bone Biopsy,1291,USD,routine
+219,2,12,Cystatin C,521,USD,routine
+220,1,3,Serum Transferrin,498,USD,routine
+221,2,12,Alkaline Phosphatase (ALP),1438,USD,routine
+222,5,28,Prothrombin G20210A Mutation,1336,USD,stat
+223,4,26,Free Kappa Light Chains (Serum),1373,USD,stat
+224,10,50,Brucella Agglutination Test,118,USD,routine
+225,6,33,Cervical Conization (Cone Biopsy),234,USD,routine
+226,10,49,Helicobacter pylori Stool Antigen,900,USD,emergency
+227,9,44,Cocaine Metabolite Screen,1154,USD,routine
+228,9,45,Blood Arsenic Level,1137,USD,routine
+229,1,3,Prothrombin Time (PT/INR),386,USD,routine
+230,1,7,Factor X Activity,1036,USD,routine
+231,3,18,Fungal Smear (Calcofluor White),743,USD,routine
+232,9,46,Methotrexate Level (48hr),204,USD,emergency
+233,8,40,Anti-TSH Receptor (TRAb),1435,USD,routine
+234,5,30,CMV DNA PCR Quantitative,1191,USD,routine
+235,2,14,Homocysteine,78,USD,routine
+236,1,1,Clotting Time (Lee-White),981,USD,routine
+237,9,45,Tricyclic Antidepressant Screen,1247,USD,routine
+238,10,49,West Nile Virus IgM,271,USD,routine
+239,7,37,Nasal Brush Cytology,101,USD,routine
+240,3,20,Urine Culture & Sensitivity,721,USD,routine
+241,9,44,Phenobarbital Level,1376,USD,stat
+242,9,46,Buprenorphine Screen,1485,USD,routine
+243,10,50,HIV Viral Load (Serology Backup),288,USD,emergency
+244,8,39,Progesterone,673,USD,routine
+245,2,9,Myoglobin,249,USD,emergency
+246,9,44,Cyclosporine Level (C0),845,USD,routine
+247,7,38,Urine Cytology,1476,USD,routine
+248,9,46,Theophylline Level,1252,USD,routine
+249,10,48,HSV-1 IgM,899,USD,routine
+250,6,35,Kidney Biopsy,1310,USD,routine
+251,6,34,Endometrial Biopsy,117,USD,routine
+252,7,36,Breast Nipple Discharge Cytology,958,USD,routine
+253,2,11,Serum Bicarbonate,792,USD,stat
+254,10,49,Widal Test,1165,USD,routine
+255,2,13,Urine Osmolality,174,USD,routine
+256,1,2,Hemoglobin Electrophoresis,300,USD,routine
+257,1,7,Plasma Cell Count (Bone Marrow),981,USD,stat
+258,1,2,Factor XII Activity,1364,USD,routine
+259,10,47,Rickettsia IgM,153,USD,routine
+260,5,28,HSV-2 PCR,307,USD,routine
+261,7,36,Joint Fluid Cytology,190,USD,routine
+262,9,44,Urine Lead Level,1250,USD,emergency
+263,5,28,Neisseria gonorrhoeae DNA PCR,722,USD,routine
+264,10,47,HBeAg,617,USD,routine
+265,1,2,Bone Marrow Aspiration Smear,316,USD,routine
+266,2,10,Serum Magnesium,275,USD,routine
+267,5,27,BK Virus DNA PCR Quantitative,319,USD,stat
+268,6,33,Lung Biopsy,1255,USD,routine
+269,3,17,AFB Culture (Liquid Medium),593,USD,stat
+270,5,30,Ureaplasma urealyticum PCR,1127,USD,emergency
+271,2,9,Serum Creatinine,1025,USD,routine
+272,2,13,Serum Zinc,1101,USD,routine
+273,8,42,Thyroid Stimulating Hormone (TSH),1081,USD,emergency
+274,10,47,CMV IgG,1399,USD,routine
+275,3,19,Wound Culture & Sensitivity,1367,USD,routine
+276,6,32,Cervical Biopsy,1030,USD,routine
+277,10,50,Toxoplasma IgM,1455,USD,emergency
+278,4,26,Anti-Centromere,958,USD,stat
+279,9,43,Everolimus Level,709,USD,routine
+280,1,1,G6PD Quantitative,308,USD,routine
+281,10,49,Hepatitis Delta (Anti-HDV),830,USD,routine
+282,10,49,Influenza A Rapid Antigen,979,USD,routine
+283,10,50,HBsAg (Hepatitis B Surface Antigen),253,USD,routine
+284,10,47,Syphilis Total Antibody (TP-PA),1390,USD,routine
+285,9,44,Salicylate (Aspirin) Level,930,USD,routine
+286,9,44,Mycophenolic Acid Level,897,USD,routine
+287,10,50,Schistosoma IgG,866,USD,routine
+288,1,1,ESR (Westergren Method),690,USD,routine
+289,4,26,C-ANCA (Quantitative),572,USD,routine
+290,8,40,Water Deprivation Test,1456,USD,routine
+291,2,9,NT-proBNP,236,USD,routine
+292,10,47,Amoebic Serology (E. histolytica),934,USD,stat
+293,2,13,Gamma Glutamyl Transferase (GGT),316,USD,routine
+294,5,31,Chlamydia pneumoniae PCR,1200,USD,routine
+295,6,32,Thyroid Biopsy,891,USD,routine
+296,5,30,RSV PCR,155,USD,routine
+297,8,41,LH (Luteinizing Hormone),770,USD,emergency
+298,9,44,Lithium Level,366,USD,routine
+299,4,22,Complement C3,271,USD,routine
+300,2,13,Serum Osmolality,285,USD,routine
+301,10,48,Cysticercosis IgG,928,USD,routine
+302,9,43,Blood Lead Level,1297,USD,routine
+303,10,49,Cryptococcal Antigen (CrAg),109,USD,emergency
+304,9,45,Serum Methanol,745,USD,routine
+305,10,48,HIV-1/2 Combo (4th Gen),343,USD,routine
+306,2,14,Serum Potassium,192,USD,emergency
+307,6,32,Hodgkin Lymphoma Biopsy,237,USD,routine
+308,5,28,Streptococcus agalactiae (GBS) PCR,820,USD,routine
+309,2,13,Renal Function Test (RFT),372,USD,routine
+310,2,13,Serum Globulin,1212,USD,routine
+311,6,32,Testicular Biopsy,368,USD,emergency
+312,10,47,CMV IgM,1430,USD,stat
+313,5,30,Legionella pneumophila PCR,1405,USD,routine
+314,1,5,Vitamin B12 (Serum),955,USD,routine
+315,10,48,ASO Titer (Anti-Streptolysin O),1099,USD,emergency
+316,9,46,Tobramycin Trough Level,277,USD,routine
+317,3,20,Throat Swab Culture,1046,USD,routine
+318,1,3,Protein C Activity,143,USD,emergency
+319,3,20,CSF Culture,162,USD,stat
+320,4,23,High-Sensitivity CRP (hs-CRP),482,USD,routine
+321,9,45,Acetaminophen (Paracetamol) Level,642,USD,routine
+322,8,39,Inhibin B,1068,USD,routine
+323,1,2,Reticulocyte Count,314,USD,routine
+324,5,28,Pneumocystis jirovecii PCR,1074,USD,routine
+325,4,26,Anti-La (SS-B),775,USD,stat
+326,7,38,Vaginal Pool Cytology (Hormonal Assessment),136,USD,routine
+327,1,4,Complete Blood Count (CBC),209,USD,routine
+328,6,35,Bladder Biopsy,1224,USD,routine
+329,6,35,Skin Punch Biopsy (Melanoma),642,USD,emergency
+330,2,8,Electrolytes Panel (Na/K/Cl/HCO3),715,USD,emergency
+331,4,25,Beta-2 Microglobulin (Serum),992,USD,routine
+332,8,41,Metanephrines (Plasma),230,USD,routine
+333,10,47,Streptococcus A (Rapid Antigen),548,USD,routine
+334,9,46,Zolpidem Screen,1123,USD,stat
+335,8,41,Dihydrotestosterone (DHT),745,USD,emergency
+336,9,44,Amphetamine Screen,206,USD,routine
+337,4,21,Antinuclear Antibody (ANA) Screen,1136,USD,routine
+338,8,41,Reverse T3 (rT3),769,USD,routine
+339,2,10,Liver Function Test (LFT),533,USD,emergency
+340,6,34,Breast Lump Biopsy,454,USD,emergency
+341,2,10,Total Creatine Kinase (CK),1392,USD,stat
+342,6,35,Liver Biopsy,1000,USD,routine
+343,9,46,Digoxin Level,1444,USD,routine
+344,1,5,CBC with Differential,1366,USD,routine
+345,10,49,Anti-HIV (HIV 1+2 Antibody),1334,USD,routine
+346,2,15,Apolipoprotein B,189,USD,routine
+347,5,29,Influenza A PCR,612,USD,routine
+348,10,49,EBV Early Antigen IgG,1089,USD,stat
+349,2,15,Serum Bilirubin Total,975,USD,stat
+350,10,49,Malaria Parasite Density,637,USD,stat
+351,8,39,Dexamethasone Suppression Test,1309,USD,routine
+352,9,46,Serum Isopropanol,997,USD,routine
+353,10,47,HSV-2 IgG,971,USD,routine
+354,9,44,Serum Ethylene Glycol,708,USD,routine
+355,2,10,Serum Bilirubin Direct,176,USD,routine
+356,9,45,Amikacin Peak Level,222,USD,routine
+357,1,2,RBC Count,130,USD,emergency
+358,6,35,Nerve Biopsy,949,USD,routine
+359,3,20,Anaerobic Culture,375,USD,routine
+360,6,34,Ovarian Biopsy,843,USD,routine
+361,5,29,Trichomonas vaginalis PCR,1440,USD,routine
+362,8,41,Androgen Panel,184,USD,routine
+363,4,25,Anti-C1q Antibody,1439,USD,routine
+364,4,23,Anti-Phospholipid Screen,1394,USD,routine
+365,10,48,Influenza B Rapid Antigen,732,USD,stat
+366,7,38,Fine Needle Aspiration - Liver,339,USD,routine
+367,10,49,Leishmaniasis (Kala-Azar) rk39,1393,USD,routine
+368,8,42,IGF-BP3 (Binding Protein 3),314,USD,routine
+369,10,47,Hydatid Cyst (Echinococcus) IgG,684,USD,routine
+370,10,49,EBV VCA IgG,311,USD,routine
+371,2,9,Triglycerides,1373,USD,routine
+372,2,13,AST (Aspartate Aminotransferase),87,USD,routine
+373,1,2,Factor VII Activity,488,USD,routine
+374,1,7,Serum Iron,1045,USD,emergency
+375,5,28,HCV Drug Resistance PCR,367,USD,stat
+376,6,32,Lymph Node Biopsy,1089,USD,routine
+377,2,8,Fasting Blood Sugar (FBS),1405,USD,routine
+378,10,48,Measles IgG,1273,USD,routine
+379,10,48,Rubella IgM,420,USD,routine
+380,5,31,HCV RNA PCR Quantitative,389,USD,routine
+381,7,36,Oral Cavity Brush Cytology,891,USD,routine
+382,5,28,Chlamydia trachomatis DNA PCR,959,USD,routine
+383,7,38,Fine Needle Aspiration - Salivary Gland,969,USD,emergency
+384,9,44,Carbamazepine Level,683,USD,routine
+385,3,19,Ear Swab Culture,447,USD,routine
+386,6,35,Esophageal Biopsy,995,USD,routine
+387,10,50,Legionella Urinary Antigen,1079,USD,routine
+388,9,44,Valproic Acid Level,458,USD,routine
+389,3,17,Gram Stain,562,USD,stat
+390,2,15,Random Blood Sugar (RBS),810,USD,routine
+391,10,47,Measles IgM,1106,USD,routine
+392,2,12,HbA1c (Glycated Hemoglobin),221,USD,routine
+393,5,29,West Nile Virus PCR,970,USD,routine
+394,8,40,FSH (Follicle Stimulating Hormone),945,USD,stat
+395,4,22,Spondyloarthritis Screen (HLA-B27 PCR),973,USD,routine
+396,6,32,Skin Biopsy,899,USD,stat
+397,8,41,Testosterone Free,532,USD,routine
+398,9,43,Tobramycin Peak Level,817,USD,emergency
+399,9,45,Sirolimus Level,252,USD,routine
+400,8,41,Anti-Müllerian Hormone (Ovarian Reserve),349,USD,emergency
+401,7,37,Fine Needle Aspiration - Lymph Node,1017,USD,routine
+402,2,10,Serum Ceruloplasmin,1494,USD,routine
+403,1,5,HbF Quantification (Alkali Denaturation),60,USD,routine
+404,3,16,Semen Culture,574,USD,emergency
+405,5,28,HIV-1 RNA PCR Quantitative,1173,USD,routine
+406,4,25,Complement CH50,1130,USD,routine
+407,1,7,Thrombin Time,640,USD,emergency
+408,3,16,Blood Culture (Aerobic & Anaerobic),147,USD,emergency
+409,1,6,Antithrombin III Activity,1325,USD,routine
+410,9,43,Gentamicin Peak Level,1073,USD,routine
+411,9,43,Topiramate Level,1344,USD,routine
+412,4,22,Anti-Histone Antibody,344,USD,routine
+413,8,39,Aldosterone (Urine 24hr),1309,USD,routine
+414,10,50,Hepatitis C Viral Load (Serology Backup),433,USD,routine
+415,6,32,Small Bowel Biopsy (Celiac),1122,USD,routine
+416,8,39,Aldosterone:Renin Ratio,1127,USD,routine
+417,8,39,ACTH (Adrenocorticotropic Hormone),849,USD,routine
+418,3,16,Catheter Tip Culture (Semi-Quantitative),1351,USD,routine
+419,10,49,TPHA (Treponema Pallidum Hemagglutination),569,USD,routine
+420,5,29,HIV-2 RNA PCR,188,USD,routine
+421,9,43,Free Phenytoin Level,1241,USD,routine
+422,3,18,AFB Smear (Ziehl-Neelsen Stain),323,USD,stat
+423,10,49,Varicella Zoster IgG,1366,USD,emergency
+424,6,35,Brain Biopsy,1474,USD,routine
+425,2,10,Cardiac Enzymes Panel,326,USD,stat
+426,10,50,Anti-HCV (Hepatitis C Antibody),125,USD,routine
+427,7,36,Body Fluid Cytology (General),458,USD,routine
+428,1,3,Osmotic Fragility Test,685,USD,routine
+429,8,42,Prolactin,568,USD,stat
+430,8,40,Aldosterone (Serum),635,USD,routine
+431,10,47,Rotavirus Antigen (Stool),1392,USD,routine
+432,3,16,Body Fluid Culture,803,USD,routine
+433,8,42,Parathyroid Hormone (PTH),950,USD,routine
+434,2,14,Serum Copper,744,USD,routine
+435,4,24,Anti-MPO (p-ANCA Antigen),1467,USD,routine
+436,4,25,Urine Protein Electrophoresis (UPEP),596,USD,routine
+437,2,14,Serum Sodium,211,USD,routine
+438,4,22,IgE (Total),1167,USD,routine
+439,9,43,Gamma-Hydroxybutyrate (GHB),213,USD,routine
+440,8,41,Cortisol (Morning),677,USD,routine
+441,5,30,EBV Viral Load (Quantitative),391,USD,routine
+442,10,49,Malaria Parasite (ICT),965,USD,stat
+443,10,49,Anti-HBe,1309,USD,routine
+444,1,3,Mean Platelet Volume (MPV),1359,USD,routine
+445,10,47,Anti-HBs (Hepatitis B Surface Antibody),203,USD,routine
+446,10,50,Chagas Disease (T. cruzi) IgG,794,USD,routine
+447,9,44,Free Valproic Acid Level,113,USD,emergency
+448,10,50,Toxoplasma IgG,121,USD,emergency
+449,3,17,CSF Cell Count & Differential,1371,USD,routine
+450,9,46,Vancomycin Peak Level,1211,USD,stat
+451,2,10,Serum Fructosamine,1440,USD,routine
+452,8,41,Androstenedione,811,USD,routine
+453,1,1,Factor V Activity,1225,USD,emergency
+454,1,3,Sickle Cell Screen (Sickledex),865,USD,routine
+455,8,41,Somatostatin,561,USD,routine
+456,2,8,Oral Glucose Tolerance Test (OGTT),431,USD,routine
+457,7,37,CSF Cytology,1200,USD,emergency
+458,4,23,IgM,1491,USD,routine
+459,10,49,VDRL (Venereal Disease Research Lab),1471,USD,routine
+460,10,50,Leptospira IgM,459,USD,emergency
+461,8,39,Total T4 (Thyroxine),975,USD,emergency
+462,8,42,Anti-Thyroglobulin (Anti-TG),229,USD,routine
+463,9,45,Tramadol Screen,1417,USD,routine
+464,3,16,Stool Reducing Substances,1176,USD,routine
+465,6,34,Muscle Biopsy (Dermatomyositis),372,USD,routine
+466,1,6,Serum Haptoglobin,1356,USD,emergency
+467,4,23,Free Lambda Light Chains (Serum),1091,USD,emergency
+468,2,11,Serum Albumin,334,USD,emergency
+469,6,35,Salivary Gland Biopsy,103,USD,routine
+470,5,31,Parvovirus B19 PCR,805,USD,routine
+471,8,40,"VMA (Vanillylmandelic Acid, 24hr Urine)",1303,USD,routine
+472,1,1,Factor II Activity,683,USD,routine
+473,9,46,Urine Mercury Level,1126,USD,routine
+474,3,19,Nasal Swab Culture,1227,USD,stat
+475,7,37,Breast Ductal Lavage Cytology,1365,USD,stat
+476,4,24,Anti-Cardiolipin IgM,1442,USD,routine
+477,9,44,Arsenic Speciation (Urine),1179,USD,routine
+478,4,22,IgA,314,USD,routine
+479,1,7,Peripheral Blood Smear Comment,163,USD,routine
+480,4,25,Serum Free Light Chain Ratio,363,USD,routine
+481,1,2,Total Iron Binding Capacity (TIBC),710,USD,routine
+482,1,2,Erythropoietin (EPO) Level,758,USD,routine
+483,4,25,Anti-GBM Antibody,631,USD,routine
+484,9,45,Primidone Level,452,USD,routine
+485,2,12,Serum Selenium,306,USD,routine
+486,2,9,Apolipoprotein A1,1079,USD,routine
+487,10,48,HIV-2 Antibody,400,USD,routine
+488,4,26,P-ANCA (Quantitative),1289,USD,routine
+489,5,31,MTHFR A1298C Mutation,134,USD,routine
+490,8,39,Gastrin (Fasting),216,USD,stat
+491,2,12,Lipoprotein (a),1383,USD,emergency
+492,9,46,Urine Arsenic Level,1315,USD,routine
+493,9,46,Methotrexate Level (72hr),1334,USD,routine
+494,1,6,Absolute Lymphocyte Count (ALC),668,USD,routine
+495,10,50,Typhidot IgG,659,USD,routine
+496,9,43,Cannabinoid Screen (THC),373,USD,routine
+497,3,19,Stool Occult Blood (FOBT),1001,USD,emergency
+498,7,38,Thyroid Cyst Fluid Cytology,344,USD,routine
+499,5,29,HHV-6 DNA PCR Quantitative,757,USD,routine
+500,2,10,Cholesterol HDL/LDL Ratio,808,USD,routine

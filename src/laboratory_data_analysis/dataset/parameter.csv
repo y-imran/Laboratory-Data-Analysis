@@ -1,0 +1,1007 @@
+id,test_id,name,max_normal,min_normal,unit
+1,1,HBV Genotype,10,0,type number
+2,1,HBV DNA,20,0,IU/mL
+3,2,Phosphorus,4.5,2.5,mg/dL
+4,3,HSV-1 IgG Index,1,0,S/CO
+5,4,Anti-TG,40,0,IU/mL
+6,5,Hematocrit,50,40,%
+7,6,Lactobacillus Count,100,0,CFU/mL
+8,6,Number of Isolates,2,0,count
+9,6,WBC Count,15,0,/HPF
+10,7,Cryptosporidium Ag Index,1,0,S/CO
+11,8,Anti-PR3,3.5,0,U/mL
+12,9,CRP,5,0,mg/L
+13,10,Anti-dsDNA,25,0,IU/mL
+14,10,Anti-Sm,20,0,U/mL
+15,10,Anti-RNP,20,0,U/mL
+16,10,Anti-Ro (SS-A),20,0,U/mL
+17,10,Anti-La (SS-B),20,0,U/mL
+18,10,Anti-Histone,1,0,U/mL
+19,10,Anti-Scl-70,20,0,U/mL
+20,10,Anti-Jo-1,20,0,U/mL
+21,10,Anti-Centromere,20,0,U/mL
+22,11,Giardia Ag Index,1,0,S/CO
+23,12,Bilirubin Indirect,1,0.1,mg/dL
+24,13,Fecal WBC Count,5,0,/HPF
+25,14,Chikungunya IgG Index,1,0,S/CO
+26,15,AFB Count,0,0,/300 fields
+27,15,Grading Score,3,0,
+28,16,Rubella IgG,300,10,IU/mL
+29,17,Anti-RNP,20,0,U/mL
+30,18,B. pertussis Ct Value,0,0,Ct
+31,18,B. pertussis Copy Number,0,0,copies/mL
+32,19,Folate,17,3,ng/mL
+33,20,Lead,10,0,µg/dL
+34,20,Mercury,10,0,µg/L
+35,20,Arsenic,10,0,µg/L
+36,20,Cadmium,5,0,µg/L
+37,21,HBV DNA,20,0,IU/mL
+38,21,Resistance Mutation Count,5,0,mutations
+39,22,Plasma Renin Activity,3.3,0.2,ng/mL/hr
+40,23,Insulin,24.9,2.6,µIU/mL
+41,23,HOMA-IR,2.5,0,
+42,24,C. neoformans Ct Value,0,0,Ct
+43,24,C. neoformans Copy Number,0,0,copies/mL
+44,25,Ferritin,400,30,ng/mL
+45,26,Fungal Hyphae Count,0,0,/HPF
+46,26,Budding Yeast Count,0,0,/HPF
+47,27,Platelet Count,400,150,K/µL
+48,27,MPV,10.4,7.4,fL
+49,27,PDW,14,9,%
+50,28,HBV DNA,20,0,IU/mL
+51,28,Log10 HBV DNA,1.3,0,log IU/mL
+52,29,DAT IgG Titer,0,0,titer
+53,29,DAT C3d Titer,0,0,titer
+54,29,DAT Polyspecific Titer,0,0,titer
+55,30,Time to Growth,28,0,days
+56,30,Colony Count,10000,0,CFU/mL
+57,30,Number of Isolates,2,0,count
+58,31,Benzodiazepine Screen Index,1,0,S/CO
+59,31,Oxazepam Concentration,0,0,ng/mL
+60,32,5-HIAA,9,1,mg/24hr
+61,33,Troponin T,0.01,0,ng/mL
+62,34,IAT Titer,0,0,titer
+63,35,Gentamicin Trough,2,0,µg/mL
+64,36,VZV IgM Index,1,0,S/CO
+65,37,TSH,4,0.4,mIU/L
+66,37,Free T3,4.2,2.3,pg/mL
+67,37,Free T4,1.8,0.8,ng/dL
+68,38,IgG,1600,700,mg/dL
+69,39,Methadone,0,0,ng/mL
+70,39,Methadone Screen Index,1,0,S/CO
+71,40,RF IgA,17,0,U/mL
+72,41,Gleason Primary Score,5,3,
+73,41,Gleason Secondary Score,5,3,
+74,41,Gleason Total Score,7,6,
+75,41,Percentage of Cores Involved,0,0,%
+76,41,Perineural Invasion Score,0,0,
+77,41,Tumor Length in Core,0,0,mm
+78,42,Epinephrine (Urine),20,0,µg/24hr
+79,42,Norepinephrine (Urine),80,15,µg/24hr
+80,42,Dopamine (Urine),400,65,µg/24hr
+81,43,Serum Iron,170,60,µg/dL
+82,43,TIBC,450,250,µg/dL
+83,43,Transferrin Saturation,50,20,%
+84,43,UIBC,375,150,µg/dL
+85,44,CK-MB,25,0,U/L
+86,44,CK-MB Index,5,0,%
+87,45,Morphine,0,0,ng/mL
+88,45,Opiate Screen Index,1,0,S/CO
+89,46,SHBG,60,10,nmol/L
+90,47,Lipase,160,0,U/L
+91,48,Anti-Scl-70,20,0,U/mL
+92,49,Factor IX,150,50,%
+93,50,Anti-TPO,34,0,IU/mL
+94,51,LDH Isoenzyme 1,30,18,%
+95,51,LDH Isoenzyme 2,40,28,%
+96,51,LDH Total,280,140,U/L
+97,52,Barbiturate Screen Index,1,0,S/CO
+98,52,Phenobarbital (Toxic),40,0,µg/mL
+99,53,Cadmium (Urine),3,0,µg/g creatinine
+100,54,HSV-1 DNA Ct Value,0,0,Ct
+101,54,HSV-1 Viral Load,0,0,copies/mL
+102,55,Free Cortisol (Urine),90,20,µg/24hr
+103,56,Typhidot IgM Index,1,0,S/CO
+104,57,Anti-Ro,20,0,U/mL
+105,58,Glucose 2hr PP,140,70,mg/dL
+106,59,ACE,52,8,U/L
+107,60,Mercury,10,0,µg/L
+108,61,THC Screen Index,1,0,S/CO
+109,61,Cocaine Screen Index,1,0,S/CO
+110,61,Opiate Screen Index,1,0,S/CO
+111,61,Amphetamine Screen Index,1,0,S/CO
+112,61,Benzodiazepine Screen Index,1,0,S/CO
+113,61,Barbiturate Screen Index,1,0,S/CO
+114,61,Methadone Screen Index,1,0,S/CO
+115,61,Phencyclidine Screen Index,1,0,S/CO
+116,61,Oxycodone Screen Index,1,0,S/CO
+117,61,Tramadol Screen Index,1,0,S/CO
+118,62,Chloride,107,98,mEq/L
+119,63,MTB DNA Ct Value,0,0,Ct
+120,63,Rifampicin Resistance Ct Value,0,0,Ct
+121,63,MTB Probe Count Positive,0,0,probes
+122,64,Anti-CCP,20,0,U/mL
+123,65,BUN,20,7,mg/dL
+124,65,BUN:Creatinine Ratio,20,10,
+125,66,Phenytoin,20,10,µg/mL
+126,67,Dengue IgM Index,1,0,S/CO
+127,68,Amikacin Trough,8,0,µg/mL
+128,69,RBC Folate,628,140,ng/mL
+129,70,Colony Count,100000,0,CFU/mL
+130,70,Number of Isolates,3,0,count
+131,70,WBC Count,50,0,/HPF
+132,71,M. genitalium Ct Value,0,0,Ct
+133,71,M. genitalium Copy Number,0,0,copies/mL
+134,72,VIP,75,0,pg/mL
+135,73,Cyclosporine C2,800,400,ng/mL
+136,74,Amylase,110,30,U/L
+137,75,Growth Hormone,8,0,ng/mL
+138,76,ACPA,20,0,U/mL
+139,77,Ammonia,45,15,µg/dL
+140,78,Total Cholesterol,200,0,mg/dL
+141,78,LDL Cholesterol,100,0,mg/dL
+142,78,HDL Cholesterol,60,40,mg/dL
+143,78,Triglycerides,150,0,mg/dL
+144,78,VLDL Cholesterol,40,5,mg/dL
+145,78,Cholesterol:HDL Ratio,4.5,0,
+146,79,Anti-Cardiolipin IgG,12,0,GPL
+147,80,AEC,0.5,0,K/µL
+148,81,Uric Acid,7.2,3.5,mg/dL
+149,82,C. difficile Ct Value,0,0,Ct
+150,82,C. difficile Toxin B Copy Number,0,0,copies/mL
+151,83,Anti-TPO,34,0,IU/mL
+152,84,Total Cell Count,1000,0,/µL
+153,84,RBC Count,1000,0,/µL
+154,84,WBC Count,1000,0,/µL
+155,84,Lymphocyte %,100,0,%
+156,84,Mesothelial Cell %,10,0,%
+157,84,Malignant Cell Count,0,0,/HPF
+158,85,RSV Ag Index,1,0,S/CO
+159,86,G. vaginalis Ct Value,0,0,Ct
+160,86,G. vaginalis Copy Number,0,0,copies/mL
+161,87,JAK2 V617F Allele Frequency,0,0,%
+162,87,JAK2 V617F Allele Ratio,0,0,ratio
+163,88,Total T3,200,80,ng/dL
+164,89,Metanephrine (Urine),222,25,µg/24hr
+165,89,Normetanephrine (Urine),412,40,µg/24hr
+166,90,Anti-Sm,20,0,U/mL
+167,91,HPV DNA Viral Load,0,0,copies/mL
+168,91,HPV Genotype Number,0,0,type number
+169,91,HPV Ct Value,0,0,Ct
+170,92,Mumps IgG Index,1,0,S/CO
+171,93,Tumor Size,0,0,cm
+172,93,Tumor Grade,2,1,
+173,93,Wall Invasion Depth,0,0,mm
+174,93,Mitotic Count,5,0,/10HPF
+175,94,BCR-ABL1 IS Ratio,0.1,0,%
+176,94,Log Reduction,5,3,log
+177,94,BCR-ABL1 Copy Number,100,0,copies
+178,95,Testosterone Total,1000,300,ng/dL
+179,96,AMH,10,1,ng/mL
+180,97,Cellularity Score,3,1,
+181,97,Urothelial Cell Count,80,5,/HPF
+182,97,Atypical Urothelial Cell Count,0,0,/HPF
+183,97,Nuclear:Cytoplasmic Ratio,0.4,0.1,ratio
+184,97,Malignant Cell Count,0,0,/HPF
+185,98,M. pneumoniae Ct Value,0,0,Ct
+186,98,M. pneumoniae Copy Number,0,0,copies/mL
+187,99,Beta-Hydroxybutyrate,0.27,0.02,mmol/L
+188,100,ESR Wintrobe,10,0,mm/hr
+189,101,Hemoglobin,17,13,g/dL
+190,102,Cellularity Score,3,1,
+191,102,Epithelial Cell Clump Size,50,5,cells
+192,102,Nuclear Atypia Score,0,0,
+193,102,Myoepithelial Cell Count,20,1,/HPF
+194,102,Necrotic Debris Score,0,0,
+195,103,C-Peptide,4.4,1.1,ng/mL
+196,104,Anti-HAV IgM Index,1,0,S/CO
+197,105,Number of Drugs Detected,0,0,count
+198,105,Total Drug Concentration,0,0,ng/mL
+199,106,CBG,50,25,mg/L
+200,107,EBV EBNA IgG Index,1,0,S/CO
+201,108,Chikungunya IgM Index,1,0,S/CO
+202,109,Free T3,4.2,2.3,pg/mL
+203,110,17-OH Progesterone,3,0.2,ng/mL
+204,111,Factor XI,150,50,%
+205,112,Time to Growth,56,0,days
+206,112,Colony Count,500,0,CFU/mL
+207,113,Cellularity Score,3,1,
+208,113,Spindle Cell %,100,0,%
+209,113,Nuclear Atypia Score,0,0,
+210,113,Mitotic Count,3,0,/10HPF
+211,113,Necrotic Debris Score,0,0,
+212,114,H. pylori IgG Index,1,0,S/CO
+213,115,HSV-2 IgM Index,1,0,S/CO
+214,116,Ethanol,0,0,mg/dL
+215,117,Dengue RNA Ct Value,0,0,Ct
+216,117,Dengue Viral Load,0,0,copies/mL
+217,118,Anti-Ribosomal P,20,0,U/mL
+218,119,Levetiracetam,46,12,µg/mL
+219,120,Vancomycin Trough,20,10,µg/mL
+220,121,Capsulated Yeast Count,0,0,/HPF
+221,121,WBC Count in CSF,5,0,/µL
+222,122,Cryocrit,0,0,%
+223,122,Cryoglobulin Concentration,0,0,mg/L
+224,123,Beta-2 GP IgG,20,0,U/mL
+225,124,Colony Count,100000,0,CFU/mL
+226,124,Number of Isolates,3,0,count
+227,124,Squamous Epithelial Cells,10,0,/LPF
+228,124,WBC Count in Sputum,25,0,/LPF
+229,125,Pneumococcal Ag Index,1,0,S/CO
+230,126,Chromogranin A,100,0,ng/mL
+231,127,HBcAg Level,0,0,pg/mL
+232,128,C4,40,10,mg/dL
+233,129,Anti-Jo-1,20,0,U/mL
+234,130,HDL Cholesterol,60,40,mg/dL
+235,131,Tumor Size,0,0,cm
+236,131,Weiss Score,2,0,
+237,131,Necrosis %,0,0,%
+238,131,Mitotic Count,5,0,/10HPF
+239,132,LA Screen Ratio,1.2,0.8,ratio
+240,132,LA Confirm Ratio,1.2,0.8,ratio
+241,133,Glucose 2hr PP,140,70,mg/dL
+242,134,Calcium Total,10.3,8.6,mg/dL
+243,135,Total Protein,8.3,6,g/dL
+244,135,Albumin,5,3.5,g/dL
+245,135,Globulin,3.5,2,g/dL
+246,135,A:G Ratio,2.5,1,
+247,136,HIV P24 S/CO,1,0,S/CO
+248,137,SARS-CoV-2 Ag Index,1,0,S/CO
+249,138,IGF-1,360,90,ng/mL
+250,139,Thyroglobulin,29,1.4,ng/mL
+251,140,Ova Count,0,0,/HPF
+252,140,Parasite Count,0,0,/HPF
+253,140,WBC Count in Stool,5,0,/HPF
+254,141,MTHFR C677T Allele Frequency,0,0,%
+255,141,MTHFR C677T Copy Number,2,0,copies
+256,142,Rotavirus Ct Value,0,0,Ct
+257,142,Adenovirus Ct Value (Stool),0,0,Ct
+258,143,Fecal Calprotectin,50,0,µg/g
+259,144,HBV DNA,20,0,IU/mL
+260,145,Enterovirus Ct Value,0,0,Ct
+261,145,Enterovirus Viral Load,0,0,copies/mL
+262,146,ANC,7.7,1.8,K/µL
+263,147,Bleeding Time,7,2,min
+264,148,RA Factor,14,0,IU/mL
+265,149,Tumor Size,0,0,cm
+266,149,Nuclear Grade (Fuhrman/ISUP),3,1,
+267,149,Necrosis %,10,0,%
+268,149,Sarcomatoid Differentiation %,0,0,%
+269,150,LDL Cholesterol,100,0,mg/dL
+270,151,Tacrolimus,20,5,ng/mL
+271,152,Adenovirus Ag Index,1,0,S/CO
+272,153,Inflammatory Activity Score,1,0,
+273,153,Chronic Inflammation Score,1,0,
+274,153,Crypt Architecture Score,1,0,
+275,153,Dysplasia Grade,1,0,
+276,153,Goblet Cell Loss %,10,0,%
+277,154,Total Cell Count,500,0,/µL
+278,154,RBC Count,500,0,/µL
+279,154,WBC Count,500,0,/µL
+280,154,PMN %,100,0,%
+281,154,Malignant Cell Count,0,0,/HPF
+282,155,T3 Uptake,39,24,%
+283,156,Anti-HBc IgM Index,1,0,S/CO
+284,157,Urea,20,7,mg/dL
+285,158,CMV DNA,35,0,IU/mL
+286,158,Resistance Mutation Count,5,0,mutations
+287,159,Colony Count,10000,0,CFU/mL
+288,159,Number of Isolates,2,0,count
+289,159,WBC Count,10,0,/HPF
+290,160,pH,4.5,3.8,pH units
+291,160,WBC Count,15,0,/HPF
+292,160,Lactobacilli Count,50,0,/HPF
+293,160,Clue Cell %,0,0,%
+294,161,ADH,5,1,pg/mL
+295,162,Anti-HEV IgM Index,1,0,S/CO
+296,163,Anti-HAV IgG Index,1,0,S/CO
+297,164,Anti-dsDNA,25,0,IU/mL
+298,165,Methotrexate 24hr,10,0,µmol/L
+299,166,Colloid Volume %,90,10,%
+300,166,Follicular Cell Count,100,5,/HPF
+301,166,Hurthle Cell %,10,0,%
+302,166,Nuclear Atypia Score,0,0,
+303,166,Cellularity Score,3,1,
+304,167,Monoclonal Band Concentration,0,0,g/dL
+305,167,M-Protein %,0,0,%
+306,168,HCV Genotype,7,0,type number
+307,168,HCV Subtype,0,0,subtype number
+308,169,Sperm Count,200,15,M/mL
+309,169,Sperm Motility,100,40,%
+310,169,Sperm Morphology (Normal Forms),100,4,%
+311,169,Semen Volume,5,1.5,mL
+312,169,Semen pH,8,7.2,pH units
+313,169,WBC Count in Semen,1,0,M/mL
+314,169,Vitality,100,58,%
+315,170,Oxycodone,0,0,ng/mL
+316,170,Oxycodone Screen Index,1,0,S/CO
+317,171,T. pallidum Ct Value,0,0,Ct
+318,171,T. pallidum Copy Number,0,0,copies/mL
+319,172,25-OH Vitamin D,100,30,ng/mL
+320,173,Calcitonin,10,0,pg/mL
+321,174,Bioavailable Testosterone,649,131,ng/dL
+322,175,Reptilase Time,18,14,sec
+323,176,Anti-HBc Total S/CO,1,0,S/CO
+324,177,Factor VIII,150,50,%
+325,178,Trichomonas Count,0,0,/HPF
+326,178,Fungal Hyphae Count,0,0,/HPF
+327,178,Clue Cell Count,0,0,/HPF
+328,178,WBC Count,15,0,/HPF
+329,179,DHEA-S,640,280,µg/dL
+330,180,Free T4,1.8,0.8,ng/dL
+331,181,Cellularity Score,3,1,
+332,181,Ciliated Epithelial Cell Count,50,5,/HPF
+333,181,Alveolar Macrophage Count,80,10,/HPF
+334,181,Atypical Cell Count,0,0,/HPF
+335,181,Malignant Cell Count,0,0,/HPF
+336,182,Glucagon,130,40,pg/mL
+337,183,Free T3,4.2,2.3,pg/mL
+338,183,Free T4,1.8,0.8,ng/dL
+339,184,Sweat Chloride,39,0,mmol/L
+340,184,Sweat Volume,100,15,µL
+341,185,Adenovirus Ct Value,0,0,Ct
+342,185,Adenovirus Viral Load,0,0,copies/mL
+343,186,Cellularity Score,3,1,
+344,186,Alveolar Macrophage Count,50,5,/HPF
+345,186,Squamous Epithelial Cell Count,10,0,/LPF
+346,186,Atypical Cell Count,0,0,/HPF
+347,186,Malignant Cell Count,0,0,/HPF
+348,187,"1,25-OH Vitamin D",65,16,pg/mL
+349,188,BCR-ABL1 Ct Value,0,0,Ct
+350,188,BCR-ABL1 Copy Number,0,0,copies
+351,189,Toxoplasma Ct Value,0,0,Ct
+352,189,Toxoplasma Copy Number,0,0,copies/mL
+353,190,Albumin,5,3.5,g/dL
+354,190,Alpha-1 Globulin,0.4,0.2,g/dL
+355,190,Alpha-2 Globulin,0.9,0.5,g/dL
+356,190,Beta Globulin,1.1,0.6,g/dL
+357,190,Gamma Globulin,1.6,0.6,g/dL
+358,190,M-Spike,0,0,g/dL
+359,191,Dengue NS1 Index,1,0,S/CO
+360,192,D-Dimer,0.5,0,mg/L FEU
+361,193,ALT,56,7,U/L
+362,194,Total Cholesterol,200,0,mg/dL
+363,195,Norovirus GI Ct Value,0,0,Ct
+364,195,Norovirus GII Ct Value,0,0,Ct
+365,196,Cold Agglutinin Titer,16,0,titer
+366,197,SARS-CoV-2 N Gene Ct,0,0,Ct
+367,197,SARS-CoV-2 ORF1ab Ct,0,0,Ct
+368,197,SARS-CoV-2 Viral Load,0,0,copies/mL
+369,198,Anti-HEV IgG Index,1,0,S/CO
+370,199,Tumor Size,0,0,cm
+371,199,Tumor Grade,3,1,
+372,199,Perineural Invasion Score,0,0,
+373,199,Lymphovascular Invasion Score,0,0,
+374,199,Necrosis %,10,0,%
+375,200,Fentanyl,0,0,ng/mL
+376,200,Fentanyl Screen Index,1,0,S/CO
+377,201,HHV-8 DNA,0,0,copies/mL
+378,201,HHV-8 Ct Value,0,0,Ct
+379,202,IgG1,1140,490,mg/dL
+380,202,IgG2,640,150,mg/dL
+381,202,IgG3,110,20,mg/dL
+382,202,IgG4,140,8,mg/dL
+383,203,Beta-2 GP IgM,20,0,U/mL
+384,204,Tumor Size,0,0,cm
+385,204,Mitotic Count,5,0,/10HPF
+386,204,Tumor Grade (FNCLCC),2,1,
+387,204,Necrosis %,0,0,%
+388,204,Differentiation Score,3,1,
+389,205,Lamotrigine,15,2.5,µg/mL
+390,206,Dengue IgG Index,1,0,S/CO
+391,207,EBV DNA,0,0,copies/mL
+392,207,Log10 EBV DNA,0,0,log copies/mL
+393,208,Anti-DFS70,20,0,U/mL
+394,209,CD3+ T Cells %,90,60,%
+395,209,CD4+ T Cells %,60,30,%
+396,209,CD8+ T Cells %,40,15,%
+397,209,CD19+ B Cells %,10,0,%
+398,209,CD56+ NK Cells %,15,0,%
+399,209,Total CD45+ Cell Count,5,0,/µL
+400,210,Lactate,2.2,0.5,mmol/L
+401,211,Cortisol (Evening),14,2,µg/dL
+402,212,H. pylori Density Score,1,0,
+403,212,Atrophic Gastritis Score,1,0,
+404,212,Intestinal Metaplasia Score,1,0,
+405,212,Inflammatory Activity Score,1,0,
+406,212,Chronic Inflammation Score,1,0,
+407,213,Total Cell Count,500,0,/µL
+408,213,RBC Count,500,0,/µL
+409,213,WBC Count,500,0,/µL
+410,213,Lymphocyte %,100,0,%
+411,213,Malignant Cell Count,0,0,/HPF
+412,214,Fibrinogen,400,200,mg/dL
+413,215,CBZ-Epoxide,4,0.8,µg/mL
+414,216,Typhoid IgM Index,1,0,S/CO
+415,217,EBV VCA IgM Index,1,0,S/CO
+416,218,Tumor Grade (WHO),2,1,
+417,218,Tumor Size,0,0,cm
+418,218,Mitotic Count,5,0,/10HPF
+419,218,Osteoid Production %,100,0,%
+420,219,Cystatin C,1,0.5,mg/L
+421,219,eGFR (Cystatin C),120,90,mL/min/1.73m²
+422,220,Transferrin,360,200,mg/dL
+423,221,ALP Total,147,44,U/L
+424,221,ALP Liver Fraction,110,30,U/L
+425,221,ALP Bone Fraction,50,10,U/L
+426,222,Prothrombin G20210A Allele Frequency,0,0,%
+427,222,Prothrombin G20210A Copy Number,2,0,copies
+428,223,Free Kappa,19.4,3.3,mg/L
+429,224,Brucella Titer,80,0,titer
+430,224,Brucella IgM Index,1,0,S/CO
+431,224,Brucella IgG Index,1,0,S/CO
+432,225,Cone Specimen Size,25,10,mm
+433,225,Lesion Size,0,0,mm
+434,225,CIN Grade,1,0,
+435,225,Margin Clearance,10,1,mm
+436,226,H. pylori Stool Ag Index,1,0,S/CO
+437,227,Benzoylecgonine,0,0,ng/mL
+438,227,Cocaine Screen Index,1,0,S/CO
+439,228,Arsenic,10,0,µg/L
+440,229,PT,13.5,11,sec
+441,229,INR,1.2,0.8,
+442,229,PT Control,13.5,11,sec
+443,229,PT Ratio,1.2,0.8,
+444,230,Factor X,150,50,%
+445,231,Fungal Element Count,0,0,/HPF
+446,231,Yeast Cell Count,0,0,/HPF
+447,232,Methotrexate 48hr,1,0,µmol/L
+448,233,TRAb,1.75,0,IU/L
+449,234,CMV DNA,35,0,IU/mL
+450,234,Log10 CMV DNA,1.5,0,log IU/mL
+451,235,Homocysteine,15,5,µmol/L
+452,236,Clotting Time,10,4,min
+453,237,TCA Total Concentration,0,0,ng/mL
+454,237,TCA Screen Index,1,0,S/CO
+455,238,WNV IgM Index,1,0,S/CO
+456,239,Ciliary Beat Frequency,15,10,Hz
+457,239,Epithelial Cell Count,100,10,/HPF
+458,239,Goblet Cell %,10,0,%
+459,239,Inflammation Grade,1,0,
+460,240,Colony Count,10000,0,CFU/mL
+461,240,Number of Isolates,2,0,count
+462,240,WBC Count in Urine,10,0,/HPF
+463,240,Sensitivity Panel Drugs Tested,25,10,count
+464,241,Phenobarbital,40,15,µg/mL
+465,242,Buprenorphine,0,0,ng/mL
+466,242,Buprenorphine Screen Index,1,0,S/CO
+467,243,HIV Viral Load,20,0,copies/mL
+468,244,Progesterone,0.3,0.1,ng/mL
+469,245,Myoglobin,72,25,ng/mL
+470,246,Cyclosporine C0,300,100,ng/mL
+471,247,Cellularity Score,3,1,
+472,247,Atypical Cell Count,0,0,/HPF
+473,247,RBC Count,10,0,/HPF
+474,247,WBC Count,10,0,/HPF
+475,247,Malignant Cell Count,0,0,/HPF
+476,248,Theophylline,20,10,µg/mL
+477,249,HSV-1 IgM Index,1,0,S/CO
+478,250,Glomeruli Count,50,5,count
+479,250,Sclerotic Glomeruli %,10,0,%
+480,250,Tubulointerstitial Damage %,10,0,%
+481,250,Mesangial Hypercellularity Score,2,0,
+482,250,Segmental Glomerulosclerosis %,0,0,%
+483,251,Endometrial Thickness,14,1,mm
+484,251,Gland-to-Stroma Ratio,3,1,ratio
+485,251,Atypia Score,0,0,
+486,251,Mitotic Count,2,0,/10HPF
+487,252,Cellularity Score,3,1,
+488,252,Epithelial Cell Count,30,0,/HPF
+489,252,RBC Count,10,0,/HPF
+490,252,WBC Count,10,0,/HPF
+491,252,Atypical Cell Count,0,0,/HPF
+492,253,Bicarbonate,28,22,mEq/L
+493,254,Salmonella Typhi O Titer,80,0,titer
+494,254,Salmonella Typhi H Titer,80,0,titer
+495,254,Salmonella Paratyphi AH Titer,80,0,titer
+496,254,Salmonella Paratyphi BH Titer,80,0,titer
+497,255,Urine Osmolality,900,300,mOsm/kg
+498,256,HbA,98,95,%
+499,256,HbA2,3.5,1.5,%
+500,256,HbF,1,0,%
+501,256,HbS,0,0,%
+502,257,Plasma Cell %,3,0,%
+503,257,Absolute Plasma Cell Count,0.3,0,K/µL
+504,258,Factor XII,150,50,%
+505,259,Rickettsia IgM Index,1,0,S/CO
+506,260,HSV-2 DNA Ct Value,0,0,Ct
+507,260,HSV-2 Viral Load,0,0,copies/mL
+508,261,Total Cell Count,200,0,/µL
+509,261,RBC Count,2000,0,/µL
+510,261,WBC Count,200,0,/µL
+511,261,PMN %,25,0,%
+512,261,Viscosity Score,3,1,
+513,261,Mucin Clot Quality Score,3,1,
+514,262,Lead (Urine),15,0,µg/L
+515,263,N. gonorrhoeae Ct Value,0,0,Ct
+516,263,N. gonorrhoeae Copy Number,0,0,copies/mL
+517,264,HBeAg S/CO,1,0,S/CO
+518,265,Cellularity,70,30,%
+519,265,Myeloid:Erythroid Ratio,4,2,
+520,265,Megakaryocyte Count,3,1,/HPF
+521,265,Erythroid Precursors %,25,15,%
+522,265,Myeloid Precursors %,65,50,%
+523,266,Magnesium,2.2,1.7,mg/dL
+524,267,BK Virus DNA,0,0,copies/mL
+525,267,Log10 BKV DNA,0,0,log copies/mL
+526,268,Tumor Size,0,0,mm
+527,268,Pleural Invasion Score,0,0,
+528,268,Mitotic Count,5,0,/10HPF
+529,268,Necrosis %,10,0,%
+530,268,Ki-67 Proliferation Index,15,0,%
+531,269,Time to Detection,42,0,days
+532,269,Colony Count,500,0,CFU/mL
+533,269,Number of Isolates,1,0,count
+534,270,U. urealyticum Ct Value,0,0,Ct
+535,270,U. urealyticum Copy Number,0,0,copies/mL
+536,271,Creatinine,1.2,0.6,mg/dL
+537,271,eGFR,120,90,mL/min/1.73m²
+538,272,Zinc,120,70,µg/dL
+539,273,TSH,4,0.4,mIU/L
+540,274,CMV IgG Index,1,0,S/CO
+541,274,CMV IgG Avidity %,100,60,%
+542,275,Colony Count,100000,0,CFU/mL
+543,275,Number of Isolates,3,0,count
+544,275,WBC Count,25,0,/HPF
+545,276,CIN Grade,1,0,
+546,276,Lesion Thickness,0,0,mm
+547,276,Koilocytosis Score,0,0,
+548,276,Mitotic Count,2,0,/10HPF
+549,277,Toxoplasma IgM Index,1,0,S/CO
+550,278,Anti-Centromere,20,0,U/mL
+551,279,Everolimus,8,3,ng/mL
+552,280,G6PD,14,8,U/g Hb
+553,281,Anti-HDV Index,1,0,S/CO
+554,282,Influenza A Ag Index,1,0,S/CO
+555,283,HBsAg S/CO,1,0,S/CO
+556,284,Syphilis Titer,0,0,titer
+557,284,TP-PA Titer,0,0,titer
+558,285,Salicylate,30,0,mg/dL
+559,286,Mycophenolic Acid,3.5,1,µg/mL
+560,287,Schistosoma IgG Index,1,0,S/CO
+561,288,ESR (1 hr),15,0,mm/hr
+562,288,ESR (2 hr),30,0,mm/hr
+563,289,C-ANCA Titer,20,0,titer
+564,289,C-ANCA Index,1,0,S/CO
+565,290,Urine Osmolality (Baseline),900,300,mOsm/kg
+566,290,Urine Osmolality (Post-Deprivation),1200,400,mOsm/kg
+567,290,Plasma Osmolality,295,275,mOsm/kg
+568,290,ADH Response %,100,50,%
+569,291,NT-proBNP,125,0,pg/mL
+570,292,E. histolytica IgG Index,1,0,S/CO
+571,293,GGT,61,8,U/L
+572,294,C. pneumoniae Ct Value,0,0,Ct
+573,294,C. pneumoniae Copy Number,0,0,copies/mL
+574,295,Tumor Size,0,0,mm
+575,295,Vascular Invasion Score,0,0,
+576,295,Mitotic Count,3,0,/10HPF
+577,295,Nuclear Score,1,0,
+578,295,Ki-67 Proliferation Index,5,0,%
+579,296,RSV Ct Value,0,0,Ct
+580,296,RSV Viral Load,0,0,copies/mL
+581,297,LH,8.6,1.7,mIU/mL
+582,298,Lithium,1.2,0.6,mEq/L
+583,299,C3,180,90,mg/dL
+584,300,Osmolality,295,275,mOsm/kg
+585,301,Cysticercus IgG Index,1,0,S/CO
+586,302,Lead,10,0,µg/dL
+587,303,CrAg Titer,0,0,titer
+588,304,Methanol,0,0,mg/dL
+589,305,HIV Combo S/CO,1,0,S/CO
+590,306,Potassium,5,3.5,mEq/L
+591,307,Reed-Sternberg Cell Count,20,0,/10HPF
+592,307,Sclerosis Score,2,0,
+593,307,Ki-67 Proliferation Index,80,10,%
+594,307,Necrosis %,10,0,%
+595,308,GBS Ct Value,0,0,Ct
+596,308,GBS Copy Number,0,0,copies/mL
+597,309,Urea,20,7,mg/dL
+598,309,Creatinine,1.2,0.6,mg/dL
+599,309,Uric Acid,7.2,3.5,mg/dL
+600,309,eGFR,120,90,mL/min/1.73m²
+601,309,BUN,20,7,mg/dL
+602,310,Globulin,3.5,2,g/dL
+603,311,Tumor Size,0,0,cm
+604,311,Vascular Invasion Score,0,0,
+605,311,Embryonal Component %,100,0,%
+606,311,Necrosis %,10,0,%
+607,312,CMV IgM Index,1,0,S/CO
+608,313,L. pneumophila Ct Value,0,0,Ct
+609,313,L. pneumophila Copy Number,0,0,copies/mL
+610,314,Vitamin B12,900,200,pg/mL
+611,315,ASO,200,0,IU/mL
+612,316,Tobramycin Trough,2,0,µg/mL
+613,317,Colony Count,10000,0,CFU/mL
+614,317,Number of Isolates,2,0,count
+615,317,WBC Count,10,0,/HPF
+616,318,Protein C,140,70,%
+617,319,Colony Count,1000,0,CFU/mL
+618,319,Number of Isolates,2,0,count
+619,319,CSF WBC Count,5,0,/µL
+620,319,CSF RBC Count,5,0,/µL
+621,320,hs-CRP,3,0,mg/L
+622,321,Acetaminophen,30,0,µg/mL
+623,322,Inhibin B,325,25,pg/mL
+624,323,Reticulocyte %,2.5,0.5,%
+625,323,Absolute Reticulocyte Count,100,20,K/µL
+626,323,Reticulocyte Production Index,2,1,
+627,324,P. jirovecii Ct Value,0,0,Ct
+628,324,P. jirovecii Copy Number,0,0,copies/mL
+629,325,Anti-La,20,0,U/mL
+630,326,Superficial Cell %,70,10,%
+631,326,Intermediate Cell %,70,20,%
+632,326,Parabasal Cell %,10,0,%
+633,326,Maturation Index,80,30,%
+634,326,Karyopyknotic Index,70,10,%
+635,327,WBC,11,4,K/µL
+636,327,RBC,5.5,4.5,M/µL
+637,327,Hemoglobin,17,13,g/dL
+638,327,Hematocrit,50,40,%
+639,327,MCV,100,80,fL
+640,327,MCH,33,27,pg
+641,327,MCHC,36,32,g/dL
+642,327,Platelet Count,400,150,K/µL
+643,327,Neutrophils %,70,45,%
+644,327,Lymphocytes %,40,20,%
+645,327,Monocytes %,8,2,%
+646,327,Eosinophils %,4,1,%
+647,327,Basophils %,1,0,%
+648,327,RDW,14.5,11.5,%
+649,328,Tumor Grade (WHO/ISUP 2022),2,1,
+650,328,Muscularis Propria Invasion Depth,0,0,mm
+651,328,Tumor Size,0,0,mm
+652,328,Mitotic Count,5,0,/10HPF
+653,329,Breslow Thickness,1,0,mm
+654,329,Clark Level,4,2,level
+655,329,Mitotic Count,1,0,/mm²
+656,329,Ulceration Score,0,0,
+657,329,Tumor-Infiltrating Lymphocytes Score,2,0,
+658,330,Sodium,145,135,mEq/L
+659,330,Potassium,5,3.5,mEq/L
+660,330,Chloride,107,98,mEq/L
+661,330,Bicarbonate,28,22,mEq/L
+662,330,Anion Gap,16,8,mEq/L
+663,331,Beta-2 Microglobulin,1.8,0.7,mg/L
+664,332,Metanephrine,57,0,pg/mL
+665,332,Normetanephrine,148,0,pg/mL
+666,333,Strep A Index,1,0,S/CO
+667,334,Zolpidem,0,0,ng/mL
+668,335,DHT,85,30,ng/dL
+669,336,Amphetamine,0,0,ng/mL
+670,336,Amphetamine Screen Index,1,0,S/CO
+671,337,ANA Titer,80,0,titer
+672,337,ANA Pattern Score,0,0,
+673,338,Reverse T3,0.32,0.11,ng/mL
+674,339,ALT,56,7,U/L
+675,339,AST,40,10,U/L
+676,339,Bilirubin Total,1.2,0.2,mg/dL
+677,339,Bilirubin Direct,0.3,0,mg/dL
+678,339,Alkaline Phosphatase,147,44,U/L
+679,339,GGT,61,8,U/L
+680,339,Total Protein,8.3,6,g/dL
+681,339,Albumin,5,3.5,g/dL
+682,339,Globulin,3.5,2,g/dL
+683,339,A:G Ratio,2.5,1,
+684,340,Tumor Size,0,0,mm
+685,340,Tumor Grade (Nottingham Score),6,3,
+686,340,ER Allred Score,8,0,
+687,340,PR Allred Score,8,0,
+688,340,HER2 Score (IHC),1,0,
+689,340,Ki-67 Proliferation Index,20,0,%
+690,340,Lymphovascular Invasion Score,0,0,
+691,340,Nuclear Grade,3,1,
+692,340,Mitotic Score,3,1,
+693,341,CK Total,200,30,U/L
+694,342,Necroinflammatory Grade (Ishak),4,0,
+695,342,Fibrosis Stage (Ishak),2,0,stage
+696,342,Steatosis %,5,0,%
+697,342,Portal Inflammation Score,2,0,
+698,342,Lobular Inflammation Score,2,0,
+699,343,Digoxin,2,0.8,ng/mL
+700,344,WBC,11,4,K/µL
+701,344,Neutrophils %,70,45,%
+702,344,Lymphocytes %,40,20,%
+703,344,Monocytes %,8,2,%
+704,344,Eosinophils %,4,1,%
+705,344,Basophils %,1,0,%
+706,344,Absolute Neutrophil Count,7.7,1.8,K/µL
+707,344,Absolute Lymphocyte Count,4,1,K/µL
+708,344,Absolute Monocyte Count,0.9,0.2,K/µL
+709,345,Anti-HIV S/CO,1,0,S/CO
+710,346,Apo B,100,60,mg/dL
+711,346,ApoB:ApoA1 Ratio,0.9,0.5,
+712,347,Influenza A Ct Value,0,0,Ct
+713,347,Influenza A Viral Load,0,0,copies/mL
+714,348,EBV EA IgG Index,1,0,S/CO
+715,349,Bilirubin Total,1.2,0.2,mg/dL
+716,350,Parasite Density,0,0,parasites/µL
+717,350,Parasitemia %,0,0,%
+718,351,Cortisol Baseline,23,6,µg/dL
+719,351,Cortisol Post-Dexamethasone,1.8,0,µg/dL
+720,351,Suppression %,100,50,%
+721,352,Isopropanol,0,0,mg/dL
+722,352,Acetone,3,0,mg/dL
+723,353,HSV-2 IgG Index,1,0,S/CO
+724,354,Ethylene Glycol,0,0,mg/dL
+725,355,Bilirubin Direct,0.3,0,mg/dL
+726,356,Amikacin Peak,35,20,µg/mL
+727,357,RBC,5.5,4.5,M/µL
+728,358,Myelinated Fiber Density,12000,6000,fibers/mm²
+729,358,Axonal Degeneration %,5,0,%
+730,358,Demyelination %,5,0,%
+731,358,Onion Bulb Count,0,0,/mm²
+732,359,Time to Detection,7,0,days
+733,359,Colony Count,100000,0,CFU/mL
+734,359,Number of Isolates,2,0,count
+735,360,Tumor Size,0,0,cm
+736,360,Tumor Grade,2,1,
+737,360,Capsular Invasion Score,0,0,
+738,360,Mitotic Count,10,0,/10HPF
+739,361,T. vaginalis Ct Value,0,0,Ct
+740,361,T. vaginalis Copy Number,0,0,copies/mL
+741,362,Testosterone Total,1000,300,ng/dL
+742,362,DHEA-S,640,280,µg/dL
+743,362,Androstenedione,250,50,ng/dL
+744,362,DHT,85,30,ng/dL
+745,363,Anti-C1q,10,0,U/mL
+746,364,Anti-Cardiolipin IgG,12,0,GPL
+747,364,Anti-Cardiolipin IgM,12,0,MPL
+748,364,Beta-2 GP IgG,20,0,U/mL
+749,364,Beta-2 GP IgM,20,0,U/mL
+750,365,Influenza B Ag Index,1,0,S/CO
+751,366,Cellularity Score,3,1,
+752,366,Hepatocyte Count,100,10,/HPF
+753,366,Bile Duct Epithelial Cell Count,10,0,/HPF
+754,366,Nuclear Atypia Score,0,0,
+755,366,Necrotic Debris Score,0,0,
+756,367,rk39 IgG Index,1,0,S/CO
+757,368,IGF-BP3,6,2,mg/L
+758,369,Echinococcus IgG Index,1,0,S/CO
+759,370,EBV VCA IgG Index,1,0,S/CO
+760,371,Triglycerides,150,0,mg/dL
+761,372,AST,40,10,U/L
+762,372,AST/ALT Ratio,1.5,0.7,
+763,373,Factor VII,150,50,%
+764,374,Serum Iron,170,60,µg/dL
+765,375,HCV RNA,15,0,IU/mL
+766,375,Resistance Mutation Count,10,0,mutations
+767,376,Largest Follicle Size,2,0.5,mm
+768,376,Mantle Zone Thickness,0.3,0.1,mm
+769,376,Ki-67 Proliferation Index,30,1,%
+770,376,Mitotic Count,5,0,/10HPF
+771,376,Capsular Invasion Score,0,0,
+772,377,Glucose Fasting,100,70,mg/dL
+773,378,Measles IgG Index,1,0,S/CO
+774,379,Rubella IgM Index,1,0,S/CO
+775,380,HCV RNA,15,0,IU/mL
+776,380,Log10 HCV RNA,1.2,0,log IU/mL
+777,380,HCV Genotype,6,0,type number
+778,381,Cellularity Score,3,1,
+779,381,Epithelial Cell Count,100,10,/HPF
+780,381,Atypical Cell Count,0,0,/HPF
+781,381,Inflammation Grade,1,0,
+782,381,Nuclear:Cytoplasmic Ratio,0.3,0.1,ratio
+783,382,C. trachomatis Ct Value,0,0,Ct
+784,382,C. trachomatis Copy Number,0,0,copies/mL
+785,383,Cellularity Score,3,1,
+786,383,Epithelial Cell Count,80,5,/HPF
+787,383,Acinar Cell %,90,10,%
+788,383,Nuclear Atypia Score,0,0,
+789,383,Cystic Fluid Volume,5,0,mL
+790,384,Carbamazepine,12,4,µg/mL
+791,385,Colony Count,10000,0,CFU/mL
+792,385,Number of Isolates,2,0,count
+793,385,WBC Count,10,0,/HPF
+794,386,Dysplasia Grade,1,0,
+795,386,Inflammatory Activity Score,1,0,
+796,386,Basal Cell Hyperplasia %,15,0,%
+797,386,Papillary Elongation %,66,0,%
+798,387,Legionella Ag Index,1,0,S/CO
+799,388,Valproic Acid,100,50,µg/mL
+800,389,Gram Positive Cocci Count,0,0,/OPF
+801,389,Gram Negative Bacilli Count,0,0,/OPF
+802,389,WBC Count,25,0,/HPF
+803,389,Epithelial Cell Count,10,0,/LPF
+804,390,Glucose Random,140,70,mg/dL
+805,391,Measles IgM Index,1,0,S/CO
+806,392,HbA1c,5.6,4,%
+807,392,Estimated Average Glucose,126,70,mg/dL
+808,393,WNV Ct Value,0,0,Ct
+809,393,WNV Viral Load,0,0,copies/mL
+810,394,FSH,12.4,1.5,mIU/mL
+811,395,HLA-B27 Ct Value,0,0,Ct
+812,395,HLA-B27 Copy Number,2,0,copies
+813,396,Tumor Thickness (Breslow),0,0,mm
+814,396,Mitotic Count,1,0,/mm²
+815,396,Tumor Diameter,0,0,mm
+816,396,Necrosis %,0,0,%
+817,396,Ki-67 Proliferation Index,2,0,%
+818,397,Free Testosterone,210,50,pg/mL
+819,398,Tobramycin Peak,10,4,µg/mL
+820,399,Sirolimus,20,4,ng/mL
+821,400,AMH,10,1,ng/mL
+822,400,Antral Follicle Count,25,4,count
+823,401,Lymphocyte Cellularity Score,3,1,
+824,401,Centroblast Count,20,0,/HPF
+825,401,Reed-Sternberg Cell Count,0,0,/HPF
+826,401,Necrotic Debris Score,0,0,
+827,401,Mitotic Count,5,0,/10HPF
+828,402,Ceruloplasmin,60,20,mg/dL
+829,403,HbF,1,0,%
+830,404,Colony Count,10000,0,CFU/mL
+831,404,Number of Isolates,1,0,count
+832,404,WBC Count,5,0,/HPF
+833,405,HIV-1 RNA,20,0,copies/mL
+834,405,Log10 HIV-1 RNA,1.3,0,log copies/mL
+835,406,CH50,60,30,U/mL
+836,407,Thrombin Time,16,14,sec
+837,408,Aerobic Bottle Time to Detection,5,0,days
+838,408,Anaerobic Bottle Time to Detection,5,0,days
+839,408,Colony Count,100000,0,CFU/mL
+840,408,Number of Isolates,3,0,count
+841,409,Antithrombin III,120,80,%
+842,410,Gentamicin Peak,10,4,µg/mL
+843,411,Topiramate,20,5,µg/mL
+844,412,Anti-Histone,1,0,U/mL
+845,413,Aldosterone (Urine),21,5,µg/24hr
+846,414,HCV RNA,15,0,IU/mL
+847,415,Villous Height,0.6,0.3,mm
+848,415,Crypt Depth,0.3,0.1,mm
+849,415,Villous:Crypt Ratio,5,3,ratio
+850,415,Intraepithelial Lymphocyte Count,25,0,/100 epithelial cells
+851,416,Aldosterone:Renin Ratio,30,0,ng/dL per ng/mL/hr
+852,416,Aldosterone,16,3,ng/dL
+853,416,Renin Activity,3.3,0.2,ng/mL/hr
+854,417,ACTH,60,10,pg/mL
+855,418,Colony Count,15,0,CFU/segment
+856,418,Number of Isolates,2,0,count
+857,419,TPHA Titer,0,0,titer
+858,420,HIV-2 RNA,0,0,copies/mL
+859,420,Log10 HIV-2 RNA,0,0,log copies/mL
+860,421,Free Phenytoin,2,1,µg/mL
+861,422,AFB Count,0,0,/300 fields
+862,422,Grading Score,3,0,
+863,423,VZV IgG Index,1,0,S/CO
+864,424,Tumor Grade (WHO 2021),3,1,
+865,424,Ki-67 Proliferation Index,5,0,%
+866,424,Mitotic Count,5,0,/10HPF
+867,424,Necrosis %,0,0,%
+868,424,Microvascular Proliferation Score,0,0,
+869,425,CK-MB,25,0,U/L
+870,425,Troponin I,0.04,0,ng/mL
+871,425,LDH,280,140,U/L
+872,425,Myoglobin,72,25,ng/mL
+873,426,Anti-HCV S/CO,1,0,S/CO
+874,427,Total Cell Count,1000,0,/µL
+875,427,RBC Count,5000,0,/µL
+876,427,WBC Count,1000,0,/µL
+877,427,PMN %,100,0,%
+878,427,Lymphocyte %,100,0,%
+879,427,Mesothelial Cell %,10,0,%
+880,428,Fragility Start (NaCl),0.5,0.45,% NaCl
+881,428,Fragility Complete (NaCl),0.35,0.3,% NaCl
+882,429,Prolactin,18,2,ng/mL
+883,430,Aldosterone,16,3,ng/dL
+884,431,Rotavirus Ag Index,1,0,S/CO
+885,432,Colony Count,1000,0,CFU/mL
+886,432,Number of Isolates,2,0,count
+887,432,WBC Count in Fluid,10,0,/µL
+888,433,PTH Intact,65,15,pg/mL
+889,434,Copper,140,70,µg/dL
+890,435,Anti-MPO,3.5,0,U/mL
+891,436,Albumin Fraction,50,0,mg/dL
+892,436,Alpha-1 Fraction,5,0,mg/dL
+893,436,Alpha-2 Fraction,5,0,mg/dL
+894,436,Beta Fraction,10,0,mg/dL
+895,436,Gamma Fraction,10,0,mg/dL
+896,436,M-Spike,0,0,mg/dL
+897,437,Sodium,145,135,mEq/L
+898,438,Total IgE,100,0,IU/mL
+899,439,GHB,0,0,µg/mL
+900,440,Cortisol,23,6,µg/dL
+901,441,EBV DNA,0,0,copies/mL
+902,441,Log10 EBV DNA,0,0,log copies/mL
+903,442,P. falciparum Index,1,0,S/CO
+904,442,P. vivax Index,1,0,S/CO
+905,443,Anti-HBe S/CO,1,0,S/CO
+906,444,MPV,10.4,7.4,fL
+907,444,Platelet Count,400,150,K/µL
+908,445,Anti-HBs,10,0,mIU/mL
+909,446,T. cruzi IgG Index,1,0,S/CO
+910,447,Free Valproic Acid,15,5,µg/mL
+911,448,Toxoplasma IgG Index,1,0,S/CO
+912,448,Toxoplasma IgG Avidity %,100,60,%
+913,449,CSF WBC Count,5,0,/µL
+914,449,CSF RBC Count,5,0,/µL
+915,449,CSF Lymphocytes %,80,40,%
+916,449,CSF Neutrophils %,10,0,%
+917,449,CSF Monocytes %,30,10,%
+918,450,Vancomycin Peak,40,25,µg/mL
+919,451,Fructosamine,285,200,µmol/L
+920,452,Androstenedione,250,50,ng/dL
+921,453,Factor V,150,50,%
+922,454,Sickledex Solubility,0,0,%
+923,455,Somatostatin,150,0,pg/mL
+924,456,Glucose 0 hr,100,70,mg/dL
+925,456,Glucose 1 hr,200,0,mg/dL
+926,456,Glucose 2 hr,140,0,mg/dL
+927,456,Glucose 3 hr,140,0,mg/dL
+928,457,Total Cell Count,5,0,/µL
+929,457,RBC Count,5,0,/µL
+930,457,WBC Count,5,0,/µL
+931,457,Lymphocyte %,80,40,%
+932,457,Monocyte %,30,10,%
+933,457,Malignant Cell Count,0,0,/HPF
+934,458,IgM,230,40,mg/dL
+935,459,VDRL Titer,0,0,titer
+936,460,Leptospira IgM Index,1,0,S/CO
+937,461,Total T4,12,5,µg/dL
+938,462,Anti-TG,40,0,IU/mL
+939,463,Tramadol,0,0,ng/mL
+940,463,Tramadol Screen Index,1,0,S/CO
+941,464,Reducing Substances,0.5,0,g/dL
+942,465,Fiber Diameter Variation %,30,0,%
+943,465,Necrotic Fibers %,5,0,%
+944,465,Inflammatory Cell Infiltrate Score,2,0,
+945,465,Perifascicular Atrophy %,0,0,%
+946,466,Haptoglobin,200,30,mg/dL
+947,467,Free Lambda,26.3,5.7,mg/L
+948,468,Albumin,5,3.5,g/dL
+949,469,Tumor Size,0,0,cm
+950,469,Tumor Grade,2,1,
+951,469,Mitotic Count,5,0,/10HPF
+952,469,Perineural Invasion Score,0,0,
+953,470,Parvovirus B19 Viral Load,0,0,copies/mL
+954,470,Parvovirus B19 Ct Value,0,0,Ct
+955,471,VMA,7,1,mg/24hr
+956,472,Factor II,150,50,%
+957,473,Mercury (Urine),20,0,µg/L
+958,474,Colony Count,10000,0,CFU/mL
+959,474,Number of Isolates,2,0,count
+960,474,WBC Count,10,0,/HPF
+961,475,Cellularity Score,3,1,
+962,475,Epithelial Cell Count,50,1,/HPF
+963,475,Atypical Cell Count,0,0,/HPF
+964,475,Nuclear Atypia Score,0,0,
+965,476,Anti-Cardiolipin IgM,12,0,MPL
+966,477,Arsenic (Inorganic),10,0,µg/L
+967,477,Arsenic (Organic),50,0,µg/L
+968,478,IgA,400,70,mg/dL
+969,479,RBC Count (Estimated),5.5,4.5,M/µL
+970,479,WBC Count (Estimated),11,4,K/µL
+971,479,Platelet Count (Estimated),400,150,K/µL
+972,479,RBC Size Variation,1,0,
+973,479,WBC Toxic Changes,0,0,
+974,480,Free Kappa,19.4,3.3,mg/L
+975,480,Free Lambda,26.3,5.7,mg/L
+976,480,Kappa:Lambda Ratio,1.65,0.26,
+977,481,TIBC,450,250,µg/dL
+978,481,UIBC,375,150,µg/dL
+979,481,Transferrin Saturation,50,20,%
+980,482,Erythropoietin,24,4,mIU/mL
+981,483,Anti-GBM,20,0,U/mL
+982,484,Primidone,12,4,µg/mL
+983,485,Selenium,150,70,µg/L
+984,486,Apo A1,160,120,mg/dL
+985,487,Anti-HIV-2 S/CO,1,0,S/CO
+986,488,P-ANCA Titer,20,0,titer
+987,488,P-ANCA Index,1,0,S/CO
+988,489,MTHFR A1298C Allele Frequency,0,0,%
+989,489,MTHFR A1298C Copy Number,2,0,copies
+990,490,Gastrin,100,0,pg/mL
+991,491,Lp(a),30,0,mg/dL
+992,492,Arsenic (Urine),35,0,µg/L
+993,493,Methotrexate 72hr,0.1,0,µmol/L
+994,494,ALC,4,1,K/µL
+995,495,Typhidot IgG Index,1,0,S/CO
+996,496,THC-COOH,0,0,ng/mL
+997,496,THC-COOH Cutoff Index,1,0,S/CO
+998,497,Fecal Hemoglobin,0.3,0,mg/g
+999,498,Colloid Volume %,90,20,%
+1000,498,Follicular Cell Count,30,0,/HPF
+1001,498,Hemosiderin-Laden Macrophages,20,0,/HPF
+1002,498,Cholesterol Crystal Count,10,0,/HPF
+1003,499,HHV-6 DNA,0,0,copies/mL
+1004,499,Log10 HHV-6 DNA,0,0,log copies/mL
+1005,500,Cholesterol:HDL Ratio,4.5,0,
+1006,500,LDL:HDL Ratio,3.5,0,
