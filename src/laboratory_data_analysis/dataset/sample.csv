@@ -1,4 +1,4 @@
-id,order_id,pateint_id,type,is_rejected,reject_reason
+id,order_id,patient_id,type,is_rejected,reject_reason
 1,1,1,serum,false,
 2,1,1,blood,false,
 3,2,1,blood,false,
